@@ -26,6 +26,7 @@ pysocks
 pytgcalls==2.1.0
 python-dotenv
 pytz
+yt-dlp
 rarfile
 removebg
 requests
